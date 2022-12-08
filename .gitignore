@@ -3,10 +3,10 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+m2
 # Other files and folders
 .settings/
-
+m1
 # Executables
 *.swf
 *.air
